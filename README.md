@@ -1,7 +1,7 @@
 # BizCal-Android-App
 
 ## Download apk
-![Click Here](https://drive.google.com/file/d/1bLE7dfTXkSiv0NYShwXz89NFaPgEpD1l/view?usp=sharing) 
+[Click Here](https://drive.google.com/file/d/1bLE7dfTXkSiv0NYShwXz89NFaPgEpD1l/view?usp=sharing) 
 
 Basically, In order the grasp true essence of Kotlin. I've planned to build up some projects which is probably drastically increase my learning.
 As a matter a fact, for starter I choose to build Calculator App. There're some functionalities which this calculator performs other than normal calculator
